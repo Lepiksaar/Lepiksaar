@@ -17,10 +17,7 @@ I am a person who likes to build. Recently have rediscovered the joy of programm
 <br />
 
 ---
-### Github stats
-my goal is to get this to S 😄.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lepiksaar&show_icons=true&theme=tokyonight)
 
 <details>
   <summary><h3>Short description of Ago and Coding/Tinkering</h3></summary>
