@@ -1,6 +1,6 @@
 # Ago Lepiksaar
 
-**` Rather a curious one (Beginner developer/Tinker/Investor)`**
+**` Rather a curious one (Beginner developer/Tinker)`**
 
 I am a person who likes to build. Recently have rediscovered the joy of programming.
 - 🌱 I’m currently learning GO. Why- because my name is AGO
